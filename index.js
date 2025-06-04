@@ -388,7 +388,7 @@
             // setTimeout(() => {
             //     const botMsg = document.createElement('div');
             //     botMsg.className = 'chat-message';
-            //     botMsg.textContent = "Thanks for your message! We'll get back to you shortly.";
+            //     botMsg.textContent = "Hello! thanks for your message! how can i help you today.";
             //     chatBody.appendChild(botMsg);
             //     chatBody.scrollTop = chatBody.scrollHeight;
             // }, 800);
